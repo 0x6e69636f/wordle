@@ -23,7 +23,7 @@ I implemented Tailwind mostly because I wanted to learn how to use Tailwind CSS,
 _To Run Locally:_
 Clone the repository and perform the following command line actions:
 
-- npm init
+- npm install
 - npm run start
 
 ### I'm looking for a junior developer role
